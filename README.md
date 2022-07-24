@@ -48,8 +48,8 @@ Installation:
      als auch mit den verbesserten Fonts aus dem TUD-Script-Bundle
      verwendet werden. Die anderen Vorlagen verwenden die alten Schriften
      Installationsskripte sind unter 
-     +     ```https://github.com/tud-cd/tudscr/releases/tag/fonts``` (neu)
-     +     ```https://github.com/tud-cd/tudscr/releases/tag/oldfonts (alt)
+         ```https://github.com/tud-cd/tudscr/releases/tag/fonts``` (neu)
+        ```https://github.com/tud-cd/tudscr/releases/tag/oldfonts``` (alt)
      zu finden.
    
      Es wird jedoch empfohlen, für Beamer-Präsentationen stattdessen die
